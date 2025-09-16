@@ -6,26 +6,24 @@
 
 ## Sobre mim
 
-Sou entusiasta de tecnologia, focado em aprender e compartilhar conhecimento sobre programação e desenvolvimento de sistemas. Estou sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
+Sou entusiasta de tecnologia, focado em aprender e compartilhar conhecimentos sobre programação e desenvolvimento de sistemas. Estou sempre buscando novos desafios e oportunidades para crescer e se destacar.
 
-- 🌱 Atualmente estudando novas linguagens e frameworks
+- 🌱 Atualmente estudando python com foco em Back-End
 - 📚 Compartilho meus projetos e aprendizados por aqui
 - 🔗 [Meus principais repositórios](https://github.com/Oliveirajp-Dev?tab=repositories)
 
 ## Principais Tecnologias
 
-- Python
-- JavaScript
+- Python (nivel intermediario )
+- JavaScript ( nivel basico )
 - HTML & CSS
-- (Adicione outras linguagens ou ferramentas que você domina)
+
 
 ## Projetos em destaque
 
-- [teste-revisao](https://github.com/Oliveirajp-Dev/teste-revisao)
 - [modulos-python](https://github.com/Oliveirajp-Dev/modulos-python)
 - [trabalhoLPA](https://github.com/Oliveirajp-Dev/trabalhoLPA)
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joão-pedro-oliveiradev)
-- (adicione seu e-mail, se desejar)
